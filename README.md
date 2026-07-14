@@ -2,42 +2,42 @@
 
 Software Engineering student passionate about building scalable web applications, AI-powered solutions, and workflow automations — turning ideas into code and automating the future, one workflow at a time.
 
-## 🎓 Education
+## Education
 
 **BS Software Engineering** — The University of Lahore
 Session: Fall 2023 – 2027
 
-## 🧑‍💻 About Me
+##About Me
 
-- 🌱 Currently learning Python, Django, JavaScript, Node.js, and n8n
-- 🤖 Interested in AI, Automation, Full-Stack Development, and Open Source
-- ⚡ Building intelligent workflows with n8n and integrating APIs to automate real-world tasks
-- 🛠️ Enjoy creating practical software solutions that improve productivity and solve real-world problems
-- 📚 Continuously learning new technologies and best development practices
-- 🤝 Open to internships, collaborations, and open-source contributions
+- Currently learning Python, Django, JavaScript, Node.js, and n8n
+- Interested in AI, Automation, Full-Stack Development, and Open Source
+- Building intelligent workflows with n8n and integrating APIs to automate real-world tasks
+- Enjoy creating practical software solutions that improve productivity and solve real-world problems
+- Continuously learning new technologies and best development practices
+- Open to internships, collaborations, and open-source contributions
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔍 AI-Based Audio Forensic & Crime Analysis System *(Final Year Project)*
+### AI-Based Audio Forensic & Crime Analysis System *(Final Year Project)*
 An AI-driven forensic system designed to analyze audio evidence and support crime investigation workflows, developed as a final year capstone project with a four-member team.
 
 - **Focus:** AI/ML, audio processing, forensic analysis
 - **Role:** Collaborative development within a 4-person team
 
-### 💼 Upwork Job Monitor & Discord Bot
+### Upwork Job Monitor & Discord Bot
 A policy-compliant automation system for monitoring Upwork jobs and delivering real-time Discord notifications.
 
 - **Tech Stack:** Python, Playwright, GraphQL, SQLite, SQLAlchemy, Discord API
 - **Features:** Browser automation, authenticated job monitoring, GraphQL integration, database storage, and near real-time Discord alerts
 
-### 🎥 YouTube Video & Playlist Downloader
+### YouTube Video & Playlist Downloader
 A premium web-based automation application built using Django and Python.
 
 - **Tech Stack:** Django, Python, MySQL, yt-dlp, FFmpeg, JavaScript (AJAX)
 - **Features:** Real-time progress tracking, sequential playlist downloading, MP4/MP3 extraction, and a modern glassmorphic dark UI
 - **Repository:** [Yt-video-downloader](https://github.com/ranaubaid1/Yt-video-downloader)
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:** Python, C++, JavaScript, HTML, CSS
 **Frameworks:** Django, Bootstrap, Node.js *(learning)*
@@ -47,8 +47,8 @@ A premium web-based automation application built using Django and Python.
 
 ## 📫 Connect With Me
 
-- 📧 Email: [ranaubaid934@gmail.com](mailto:ranaubaid934@gmail.com)
-- 💼 Open to internship opportunities and open-source collaborations
+- Email: [ranaubaid934@gmail.com](mailto:ranaubaid934@gmail.com)
+- Open to internship opportunities and open-source collaborations
 
 ---
 
