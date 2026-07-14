@@ -1,5 +1,4 @@
-# Hi, I'm Ubaid 👋
-
+# UBAID ABID
 Software Engineering student passionate about building scalable web applications, AI-powered solutions, and workflow automations — turning ideas into code and automating the future, one workflow at a time.
 
 ## Education
